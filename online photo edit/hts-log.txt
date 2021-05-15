@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sat, 15 May 2021 16:26:59 at https://www.photopea.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O "/storage/emulated/0/HTTrack/Websites/online photo edit" -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://www.photopea.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by Hacker /3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 seconds : 14 links scanned, 13 files written (5139510 bytes overall) [2965594 bytes received at 70609 bytes/sec], 3686450 bytes transferred using HTTP compression in 6 files, ratio 40%, 2.3 requests per connection
+(No errors, 0 warnings, 0 messages)
